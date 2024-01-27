@@ -1,0 +1,10 @@
+[Volume Id]
+DistributionGUID={0D215BB9-EB9F-4F4E-B466-7454A7094601}
+DistPackageGUID={394C8286-ED15-478C-A373-91643368BB5A}
+DistributionVersion=1.0.0
+DistributionType=MDF
+DistributionLanguage=9
+Volume=1
+TotalNumberOfVolumesInDistribution=1
+ExePath=PSRR Monitor.exe
+UpdateInfoFile=supportfiles\updateInfo.xml
