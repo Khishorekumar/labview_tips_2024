@@ -14,15 +14,15 @@
 			<Item Name="Queue Driver.vi" Type="VI" URL="../SubVI/Queue Driver.vi"/>
 		</Item>
 		<Item Name="Typedefs" Type="Folder">
-			<Item Name="Typedefs" Type="Folder" URL="../Typedefs">
-				<Property Name="NI.DISK" Type="Bool">true</Property>
-			</Item>
+			<Item Name="Typedefs" Type="Folder"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 			</Item>
+			<Item Name="Data indicator cluster.ctl" Type="VI" URL="../Typedefs/Data indicator cluster.ctl"/>
+			<Item Name="Queue operations.ctl" Type="VI" URL="../Typedefs/Queue operations.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
