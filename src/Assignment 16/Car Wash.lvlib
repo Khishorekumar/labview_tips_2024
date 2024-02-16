@@ -4,6 +4,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="Icon" Type="Folder">
+		<Item Name="car wash.ico" Type="Document" URL="../Icon/car wash.ico"/>
+	</Item>
 	<Item Name="SubVIs" Type="Folder">
 		<Item Name="Queue Driver.vi" Type="VI" URL="../SubVIs/Queue Driver.vi"/>
 	</Item>
