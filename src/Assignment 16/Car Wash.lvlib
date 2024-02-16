@@ -8,6 +8,7 @@
 		<Item Name="Queue Driver.vi" Type="VI" URL="../SubVIs/Queue Driver.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
+		<Item Name="Car wash data.ctl" Type="VI" URL="../Typedefs/Car wash data.ctl"/>
 		<Item Name="Queue operations.ctl" Type="VI" URL="../Typedefs/Queue operations.ctl"/>
 	</Item>
 	<Item Name="Car Wash Main.vi" Type="VI" URL="../Car Wash Main.vi"/>
