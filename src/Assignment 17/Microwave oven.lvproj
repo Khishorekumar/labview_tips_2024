@@ -46,7 +46,7 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Microwave/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{BE83DA92-E042-40CA-A874-103A9D84D200}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{C99DAFFA-86FC-458A-BF36-2625395BF42E}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Microwave oven.lvlib/Main.vi</Property>
