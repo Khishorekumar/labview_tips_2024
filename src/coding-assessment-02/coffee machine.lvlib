@@ -4,4 +4,13 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="SubVI" Type="Folder">
+		<Item Name="queue driver.vi" Type="VI" URL="../SubVI/queue driver.vi"/>
+	</Item>
+	<Item Name="Typedefs" Type="Folder">
+		<Item Name="Beverage select.ctl" Type="VI" URL="../Typedefs/Beverage select.ctl"/>
+		<Item Name="Data cluster.ctl" Type="VI" URL="../Typedefs/Data cluster.ctl"/>
+		<Item Name="Queue operations.ctl" Type="VI" URL="../Typedefs/Queue operations.ctl"/>
+	</Item>
+	<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 </Library>
