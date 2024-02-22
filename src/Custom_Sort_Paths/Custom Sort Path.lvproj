@@ -13,18 +13,11 @@
 		<Item Name="Libraries" Type="Folder" URL="../Libraries">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="StorageFiles" Type="Folder" URL="../StorageFiles">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
-		</Item>
-		<Item Name="SubVIs" Type="Folder" URL="../SubVIs">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
-		</Item>
-		<Item Name="Typedefs" Type="Folder" URL="../Typedefs">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
-		</Item>
-		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="File ctls.ctl" Type="VI" URL="../Typedefs/File ctls.ctl"/>
+		<Item Name="icon.ico" Type="Document" URL="../icon.ico"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="Check Special Tags.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Check Special Tags.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
@@ -32,6 +25,7 @@
 				<Item Name="Details Display Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Details Display Dialog.vi"/>
 				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
 				<Item Name="DialogTypeEnum.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogTypeEnum.ctl"/>
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="Error Code Database.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Code Database.vi"/>
 				<Item Name="ErrWarn.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/ErrWarn.ctl"/>
 				<Item Name="eventvkey.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/eventvkey.ctl"/>
@@ -49,6 +43,7 @@
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
+				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
@@ -65,7 +60,7 @@
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
-			<Item Name="My Application" Type="EXE">
+			<Item Name="Custom Path sort" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{5480F121-0B27-47BA-B4EA-4D632CA066CB}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{F7AFB011-3D94-4E64-81A0-CF445261B6C1}</Property>
@@ -74,58 +69,53 @@
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{E821B690-57B9-4C9C-8273-9CCCC36383FD}</Property>
 				<Property Name="Bld_buildSpecDescription" Type="Str">This application will get paths from the user and then stores it in a text file and sorts it accordingly</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">My Application</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Custom Path sort</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/My Application</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/Custom Path sort</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{39F88F7A-E8C1-4531-9AE6-ED11E5EBDD52}</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">5</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Custom Path Sort.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/My Application/Custom Path Sort.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Custom Path sort/Custom Path Sort.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/My Application/data</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Custom Path sort/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{DE2B7EEE-C6FA-4B09-92CD-BE694B38730C}</Property>
+				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/icon.ico</Property>
+				<Property Name="Source[0].itemID" Type="Str">{AF9735E2-D5FA-4BC1-9036-68A69E82565D}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Main.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Libraries/Custom Sort Function.lvlib/Main.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="Source[2].Container.applyInclusion" Type="Bool">true</Property>
 				<Property Name="Source[2].Container.depDestIndex" Type="Int">0</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Libraries</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Libraries/Custom Sort Function.lvlib/Typedefs</Property>
 				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[2].type" Type="Str">Container</Property>
 				<Property Name="Source[3].Container.applyInclusion" Type="Bool">true</Property>
 				<Property Name="Source[3].Container.depDestIndex" Type="Int">0</Property>
 				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[3].itemID" Type="Ref">/My Computer/Typedefs</Property>
+				<Property Name="Source[3].itemID" Type="Ref">/My Computer/Libraries/Custom Sort Function.lvlib/SubVI</Property>
 				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[3].type" Type="Str">Container</Property>
 				<Property Name="Source[4].Container.applyInclusion" Type="Bool">true</Property>
 				<Property Name="Source[4].Container.depDestIndex" Type="Int">0</Property>
 				<Property Name="Source[4].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[4].itemID" Type="Ref">/My Computer/SubVIs</Property>
+				<Property Name="Source[4].itemID" Type="Ref">/My Computer/Libraries/Custom Sort Function.lvlib/data</Property>
 				<Property Name="Source[4].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[4].type" Type="Str">Container</Property>
-				<Property Name="Source[5].Container.applyInclusion" Type="Bool">true</Property>
-				<Property Name="Source[5].Container.depDestIndex" Type="Int">0</Property>
-				<Property Name="Source[5].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[5].itemID" Type="Ref">/My Computer/StorageFiles</Property>
-				<Property Name="Source[5].sourceInclusion" Type="Str">TopLevel</Property>
-				<Property Name="Source[5].type" Type="Str">Container</Property>
-				<Property Name="SourceCount" Type="Int">6</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">My Application</Property>
-				<Property Name="TgtF_internalName" Type="Str">My Application</Property>
+				<Property Name="SourceCount" Type="Int">5</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Custom Path sort</Property>
+				<Property Name="TgtF_internalName" Type="Str">Custom Path sort</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2024 </Property>
-				<Property Name="TgtF_productName" Type="Str">My Application</Property>
+				<Property Name="TgtF_productName" Type="Str">Custom Path sort</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{A99245EC-41EA-4D49-94C3-4BD74300F019}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">Custom Path Sort.exe</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>

@@ -2,3 +2,7 @@ C:\Users\khishore.kumar\Desktop\labview Assignments\Optional Assignment 1.vi
 C:\Users\khishore.kumar\Desktop\labview Assignments\FactorialOperations.vi
 C:\Users\khishore.kumar\Desktop\labview Assignments\FactorialGenerator.vi
 C:\Users\khishore.kumar\Desktop\labview Assignments\Control 2.ctl
+C:\Users\khishore.kumar\Pictures\amusement-park-BH5D2K.jpg
+C:\Users\khishore.kumar\Pictures\ap2.jpg
+C:\Users\khishore.kumar\Pictures\a-stopwatch-logo-with-a-time-vector.jpg
+C:\Users\khishore.kumar\Pictures\ben10.jpg
