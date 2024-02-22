@@ -2,7 +2,9 @@ C:\Users\khishore.kumar\Desktop\labview Assignments\Optional Assignment 1.vi
 C:\Users\khishore.kumar\Desktop\labview Assignments\FactorialOperations.vi
 C:\Users\khishore.kumar\Desktop\labview Assignments\FactorialGenerator.vi
 C:\Users\khishore.kumar\Desktop\labview Assignments\Control 2.ctl
-C:\Users\khishore.kumar\Pictures\amusement-park-BH5D2K.jpg
-C:\Users\khishore.kumar\Pictures\ap2.jpg
-C:\Users\khishore.kumar\Pictures\a-stopwatch-logo-with-a-time-vector.jpg
-C:\Users\khishore.kumar\Pictures\ben10.jpg
+C:\Users\khishore.kumar\Desktop\labview Assignments\Add_Multiply.vi
+C:\Users\khishore.kumar\Desktop\labview Assignments\Assignment 1_1\ADC.vi
+C:\Users\khishore.kumar\Desktop\labview Assignments\Assignment01\MathOperations\AdderMultiplier.vi
+C:\Users\khishore.kumar\Downloads\Assignment12 1.zip
+C:\Users\khishore.kumar\Downloads\Assignment 17 (2).zip
+C:\Users\khishore.kumar\Downloads\LabVIEW_Khishore Kumar KM.docx
