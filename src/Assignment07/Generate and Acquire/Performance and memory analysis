@@ -1,0 +1,99 @@
+
+
+Profile Data: all times in milliseconds, memory usage in kilobytes.
+Begin: 23 Jan 2024 16:04:13.
+End: 23 Jan 2024 16:04:38.
+	VI Time	Sub VIs Time	Total Time	# Runs	Average	Shortest	Longest	Diagram	Display	Draw	Tracking	Locals	Avg Bytes	Min Bytes	Max Bytes	Avg Blocks	Min Blocks	Max Blocks	Project Library	Application Instance
+Acquire-c.vi	845.6	4.6	850.2	1	845.6	845.6	845.6	17.3	330.1	480.1	18.2	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Generate-c.vi	87.0	9.4	96.4	1	87.0	87.0	87.0	64.7	0.1	16.1	6.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Queue.vi	10.5	0.0	10.5	558	0.0	0.0	0.1	10.5	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+LV2 Stop.vi	3.5	0.0	3.5	559	0.0	0.0	0.3	3.5	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Error Code Database.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Trim Whitespace.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Find Tag.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Format Message String.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+GetRTHostConnectedProp.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Check Special Tags.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Simple Error Handler.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+General Error Handler.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+General Error Handler Core CORE.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Search and Replace Pattern.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Set String Value.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Details Display Dialog.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Get String Text Bounds.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+BuildHelpPath.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+GetHelpDir.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Synchronous_PSRR_Meter.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Error Cluster From Error Code.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Clear Errors.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Get Text Rect.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Longest Line Length in Pixels.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Set Bold Text.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Convert property node font to graphics font.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Not Found Dialog.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Three Button Dialog CORE.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Three Button Dialog.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Untitled 12	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+
+
+Expanded VI Data:
+Acquire-c.vi	845.6	4.6	850.2	1	845.6	845.6	845.6	17.3	330.1	480.1	18.2	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Queue.vi	3.8	0.0	3.8	279	0.0	0.0	0.0	3.8	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->LV2 Stop.vi	0.8	0.0	0.8	280	0.0	0.0	0.0	0.8	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Simple Error Handler.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Generate-c.vi	87.0	9.4	96.4	1	87.0	87.0	87.0	64.7	0.1	16.1	6.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Queue.vi	6.7	0.0	6.7	279	0.0	0.0	0.1	6.7	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->LV2 Stop.vi	2.8	0.0	2.8	279	0.0	0.0	0.3	2.8	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Simple Error Handler.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Queue.vi	10.5	0.0	10.5	558	0.0	0.0	0.1	10.5	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+LV2 Stop.vi	3.5	0.0	3.5	559	0.0	0.0	0.3	3.5	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Error Code Database.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Trim Whitespace.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Find Tag.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Search and Replace Pattern.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Format Message String.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Set Bold Text.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Find Tag.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+GetRTHostConnectedProp.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Check Special Tags.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Simple Error Handler.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->General Error Handler.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+General Error Handler.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->General Error Handler Core CORE.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+General Error Handler Core CORE.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Not Found Dialog.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->GetRTHostConnectedProp.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Error Code Database.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Trim Whitespace.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Format Message String.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Details Display Dialog.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Set String Value.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Check Special Tags.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Search and Replace Pattern.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Set String Value.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Details Display Dialog.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Set Bold Text.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Clear Errors.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Get String Text Bounds.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+BuildHelpPath.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->GetHelpDir.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+GetHelpDir.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Synchronous_PSRR_Meter.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Error Cluster From Error Code.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Error Cluster From Error Code.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Clear Errors.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Get Text Rect.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Longest Line Length in Pixels.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Get Text Rect.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Convert property node font to graphics font.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Set Bold Text.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Convert property node font to graphics font.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Not Found Dialog.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->BuildHelpPath.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Three Button Dialog.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Three Button Dialog CORE.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Get String Text Bounds.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Longest Line Length in Pixels.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Three Button Dialog.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+-->Three Button Dialog CORE.vi	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
+Untitled 12	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00k	0.00k	0.00k	0	0	0		Main Application Instance
