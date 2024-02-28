@@ -11,6 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Automated teller machine.lvlib" Type="Library" URL="../Automated teller machine.lvlib"/>
+		<Item Name="variant data.ctl" Type="VI" URL="../Typedefs/variant data.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
