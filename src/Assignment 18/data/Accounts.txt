@@ -1,4 +1,0 @@
-12345,John,Doe,550
-23456,Jennifer,Rodriguez,1000
-34567,Bryan,Smith,750
-45678,Julie,Ramirez,900
