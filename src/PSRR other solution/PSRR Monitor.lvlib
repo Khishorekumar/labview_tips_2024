@@ -9,9 +9,15 @@
 		<Item Name="Error log.vi" Type="VI" URL="../SubVI/Error log.vi"/>
 		<Item Name="Queue Driver.vi" Type="VI" URL="../SubVI/Queue Driver.vi"/>
 		<Item Name="Synchronous_PSRR_Meter.vi" Type="VI" URL="../SubVI/Synchronous_PSRR_Meter.vi"/>
+		<Item Name="User event LV2.vi" Type="VI" URL="../SubVI/User event LV2.vi"/>
+		<Item Name="User log event LV2.vi" Type="VI" URL="../SubVI/User log event LV2.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
+		<Item Name="Data Cluster.ctl" Type="VI" URL="../Typedefs/Data Cluster.ctl"/>
+		<Item Name="Error Details.ctl" Type="VI" URL="../Typedefs/Error Details.ctl"/>
 		<Item Name="Queue operations.ctl" Type="VI" URL="../Typedefs/Queue operations.ctl"/>
+		<Item Name="User LV2 data.ctl" Type="VI" URL="../Typedefs/User LV2 data.ctl"/>
+		<Item Name="User LV2 operations.ctl" Type="VI" URL="../Typedefs/User LV2 operations.ctl"/>
 		<Item Name="Variant cluster.ctl" Type="VI" URL="../Typedefs/Variant cluster.ctl"/>
 		<Item Name="Variant input.ctl" Type="VI" URL="../Typedefs/Variant input.ctl"/>
 	</Item>
