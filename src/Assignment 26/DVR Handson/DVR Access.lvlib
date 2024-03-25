@@ -8,6 +8,7 @@
 		<Item Name="LV2 DVR Reference.vi" Type="VI" URL="../SubVI/LV2 DVR Reference.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
+		<Item Name="Data Cluster.ctl" Type="VI" URL="../Typedefs/Data Cluster.ctl"/>
 		<Item Name="Ref Cluster.ctl" Type="VI" URL="../Typedefs/Ref Cluster.ctl"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
