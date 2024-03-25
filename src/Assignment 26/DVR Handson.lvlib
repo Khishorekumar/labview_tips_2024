@@ -4,4 +4,11 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="SubVI" Type="Folder">
+		<Item Name="LV2 DVR Ref.vi" Type="VI" URL="../SubVI/LV2 DVR Ref.vi"/>
+	</Item>
+	<Item Name="Typedefs" Type="Folder">
+		<Item Name="LV2 Operations.ctl" Type="VI" URL="../Typedefs/LV2 Operations.ctl"/>
+	</Item>
+	<Item Name="Read DVR.vi" Type="VI" URL="../SubVI/Read DVR.vi"/>
 </Library>

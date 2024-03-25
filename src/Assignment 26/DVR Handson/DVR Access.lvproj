@@ -10,10 +10,11 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="DVR Handson.lvlib" Type="Library" URL="../DVR Handson.lvlib"/>
-		<Item Name="DVRCreator.vi" Type="VI" URL="../DVRCreator.vi"/>
-		<Item Name="Untitled 6.vi" Type="VI" URL="../SubVI/Untitled 6.vi"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Data Cluster.ctl" Type="VI" URL="../Typedefs/Data Cluster.ctl"/>
+		<Item Name="DVR Access.lvlib" Type="Library" URL="../DVR Access.lvlib"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="DVR Handson.lvlib" Type="Library" URL="../../DVR Handson.lvlib"/>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
