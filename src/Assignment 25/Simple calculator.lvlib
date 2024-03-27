@@ -5,12 +5,16 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="SubVI" Type="Folder">
+		<Item Name="LV2 Object.vi" Type="VI" URL="../SubVI/LV2 Object.vi"/>
 		<Item Name="Queue Driver.vi" Type="VI" URL="../SubVI/Queue Driver.vi"/>
+		<Item Name="User Event.vi" Type="VI" URL="../SubVI/User Event.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Arithmetic operations.ctl" Type="VI" URL="../Typedefs/Arithmetic operations.ctl"/>
 		<Item Name="Data cluster.ctl" Type="VI" URL="../Typedefs/Data cluster.ctl"/>
+		<Item Name="Object LV2 operations.ctl" Type="VI" URL="../Typedefs/Object LV2 operations.ctl"/>
 		<Item Name="Queue operations.ctl" Type="VI" URL="../Typedefs/Queue operations.ctl"/>
+		<Item Name="User event operations.ctl" Type="VI" URL="../Typedefs/User event operations.ctl"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>
