@@ -34,7 +34,7 @@
 	<Item Name="SubVIs" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Occurrence_LV2.vi" Type="VI" URL="../SubVIs/Occurrence_LV2.vi"/>
-		<Item Name="QueueDriver_Sender.vi" Type="VI" URL="../SubVIs/QueueDriver_Sender.vi"/>
+		<Item Name="Queue Driver_Sender.vi" Type="VI" URL="../SubVIs/Queue Driver_Sender.vi"/>
 		<Item Name="User_Event_LV2.vi" Type="VI" URL="../SubVIs/User_Event_LV2.vi"/>
 		<Item Name="Notification user LV2.vi" Type="VI" URL="../../Receiver/SubVI/Notification user LV2.vi"/>
 	</Item>
@@ -45,7 +45,7 @@
 		<Item Name="Medium.ctl" Type="VI" URL="../Typedefs/Medium.ctl"/>
 		<Item Name="Message type data.ctl" Type="VI" URL="../Typedefs/Message type data.ctl"/>
 		<Item Name="Mode Cluster.ctl" Type="VI" URL="../Typedefs/Mode Cluster.ctl"/>
-		<Item Name="QOperation_Sender.ctl" Type="VI" URL="../Typedefs/QOperation_Sender.ctl"/>
+		<Item Name="Queue Operation_Sender.ctl" Type="VI" URL="../Typedefs/Queue Operation_Sender.ctl"/>
 		<Item Name="Sender_Data_Cluster.ctl" Type="VI" URL="../Typedefs/Sender_Data_Cluster.ctl"/>
 		<Item Name="Timing Data.ctl" Type="VI" URL="../Typedefs/Timing Data.ctl"/>
 		<Item Name="User_Event_Operation.ctl" Type="VI" URL="../Typedefs/User_Event_Operation.ctl"/>
