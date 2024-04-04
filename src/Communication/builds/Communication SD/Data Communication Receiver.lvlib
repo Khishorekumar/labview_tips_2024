@@ -5,20 +5,20 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="Classes" Type="Folder">
-		<Item Name="Receiver.lvclass" Type="LVClass" URL="../Receiver/Receiver.lvclass"/>
+		<Item Name="Receiver.lvclass" Type="LVClass" URL="../../../Receiver/Receiver/Receiver.lvclass"/>
 	</Item>
 	<Item Name="SubVI" Type="Folder">
-		<Item Name="Acknowledgement User Event.vi" Type="VI" URL="../SubVI/Acknowledgement User Event.vi"/>
-		<Item Name="Notification user LV2.vi" Type="VI" URL="../../Transmitter/SubVIs/Notification user LV2.vi"/>
-		<Item Name="Queue Driver.vi" Type="VI" URL="../SubVI/Queue Driver.vi"/>
-		<Item Name="User Stop Event.vi" Type="VI" URL="../SubVI/User Stop Event.vi"/>
+		<Item Name="Acknowledgement User Event.vi" Type="VI" URL="../../../Receiver/SubVI/Acknowledgement User Event.vi"/>
+		<Item Name="Notification user LV2.vi" Type="VI" URL="../../../Transmitter/SubVIs/Notification user LV2.vi"/>
+		<Item Name="Queue Driver.vi" Type="VI" URL="../../../Receiver/SubVI/Queue Driver.vi"/>
+		<Item Name="User Stop Event.vi" Type="VI" URL="../../../Receiver/SubVI/User Stop Event.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
-		<Item Name="Data Cluster.ctl" Type="VI" URL="../Typedefs/Data Cluster.ctl"/>
-		<Item Name="Queue operations.ctl" Type="VI" URL="../Typedefs/Queue operations.ctl"/>
-		<Item Name="Received Data.ctl" Type="VI" URL="../Typedefs/Received Data.ctl"/>
-		<Item Name="State and data.ctl" Type="VI" URL="../Typedefs/State and data.ctl"/>
-		<Item Name="User Event Stop Data.ctl" Type="VI" URL="../Typedefs/User Event Stop Data.ctl"/>
+		<Item Name="Data Cluster.ctl" Type="VI" URL="../../../Receiver/Typedefs/Data Cluster.ctl"/>
+		<Item Name="Queue operations.ctl" Type="VI" URL="../../../Receiver/Typedefs/Queue operations.ctl"/>
+		<Item Name="Received Data.ctl" Type="VI" URL="../../../Receiver/Typedefs/Received Data.ctl"/>
+		<Item Name="State and data.ctl" Type="VI" URL="../../../Receiver/Typedefs/State and data.ctl"/>
+		<Item Name="User Event Stop Data.ctl" Type="VI" URL="../../../Receiver/Typedefs/User Event Stop Data.ctl"/>
 	</Item>
-	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+	<Item Name="Main.vi" Type="VI" URL="../../../Receiver/Main.vi"/>
 </Library>

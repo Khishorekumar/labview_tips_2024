@@ -4,33 +4,6 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="Classes" Type="Folder">
-		<Item Name="Children" Type="Folder">
-			<Item Name="Inter-Application" Type="Folder"/>
-			<Item Name="Intra-Application" Type="Folder">
-				<Item Name="Children" Type="Folder">
-					<Item Name="With Data" Type="Folder">
-						<Item Name="Children" Type="Folder">
-							<Item Name="Notifiers" Type="Folder">
-								<Item Name="Notifiers.lvclass" Type="LVClass" URL="../Classes/Children/Intra-Application/Children/With Data/Children/Notifiers/Notifiers.lvclass"/>
-							</Item>
-							<Item Name="Queues" Type="Folder">
-								<Item Name="Queue.lvclass" Type="LVClass" URL="../Classes/Children/Intra-Application/Children/With Data/Children/Queues/Queue.lvclass"/>
-							</Item>
-						</Item>
-						<Item Name="With Data.lvclass" Type="LVClass" URL="../Classes/Children/Intra-Application/Children/With Data/With Data.lvclass"/>
-					</Item>
-					<Item Name="Without Data" Type="Folder">
-						<Item Name="Without Data.lvclass" Type="LVClass" URL="../Classes/Children/Intra-Application/Children/Without data/Without Data.lvclass"/>
-					</Item>
-				</Item>
-				<Item Name="IntraApplication.lvclass" Type="LVClass" URL="../Classes/Children/Intra-Application/IntraApplication.lvclass"/>
-			</Item>
-		</Item>
-		<Item Name="Parent" Type="Folder">
-			<Item Name="Communication.lvclass" Type="LVClass" URL="../Classes/Communication/Communication.lvclass"/>
-		</Item>
-	</Item>
 	<Item Name="SubVIs" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Occurrence_LV2.vi" Type="VI" URL="../SubVIs/Occurrence_LV2.vi"/>
@@ -48,6 +21,7 @@
 		<Item Name="Queue Operation_Sender.ctl" Type="VI" URL="../Typedefs/Queue Operation_Sender.ctl"/>
 		<Item Name="Sender_Data_Cluster.ctl" Type="VI" URL="../Typedefs/Sender_Data_Cluster.ctl"/>
 		<Item Name="Timing Data.ctl" Type="VI" URL="../Typedefs/Timing Data.ctl"/>
+		<Item Name="User event Operations.ctl" Type="VI" URL="../../Receiver/Typedefs/User event Operations.ctl"/>
 		<Item Name="User_Event_Operation.ctl" Type="VI" URL="../Typedefs/User_Event_Operation.ctl"/>
 		<Item Name="User_Event_STOP.ctl" Type="VI" URL="../Typedefs/User_Event_STOP.ctl"/>
 	</Item>
