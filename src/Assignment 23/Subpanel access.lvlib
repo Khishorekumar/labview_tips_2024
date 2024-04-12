@@ -7,15 +7,15 @@
 	<Item Name="SubVI" Type="Folder">
 		<Item Name="LabVIEW Functions" Type="Folder">
 			<Item Name="Boolean" Type="Folder">
-				<Item Name="And.vi" Type="VI" URL="../SubVI/LabVIEW Functions/Boolean/And.vi"/>
-				<Item Name="Not.vi" Type="VI" URL="../SubVI/LabVIEW Functions/Boolean/Not.vi"/>
-				<Item Name="Or.vi" Type="VI" URL="../SubVI/LabVIEW Functions/Boolean/Or.vi"/>
+				<Item Name="And.vi" Type="VI" URL="../../../../Assignment backups/Assignment 23/SubVI/LabVIEW Functions/Boolean/And.vi"/>
+				<Item Name="Not.vi" Type="VI" URL="../../../../Assignment backups/Assignment 23/SubVI/LabVIEW Functions/Boolean/Not.vi"/>
+				<Item Name="Or.vi" Type="VI" URL="../../../../Assignment backups/Assignment 23/SubVI/LabVIEW Functions/Boolean/Or.vi"/>
 			</Item>
 			<Item Name="Numeric" Type="Folder">
-				<Item Name="Add.vi" Type="VI" URL="../SubVI/LabVIEW Functions/Numeric/Add.vi"/>
-				<Item Name="Divide.vi" Type="VI" URL="../SubVI/LabVIEW Functions/Numeric/Divide.vi"/>
-				<Item Name="Multiply.vi" Type="VI" URL="../SubVI/LabVIEW Functions/Numeric/Multiply.vi"/>
-				<Item Name="Subtract.vi" Type="VI" URL="../SubVI/LabVIEW Functions/Numeric/Subtract.vi"/>
+				<Item Name="Add.vi" Type="VI" URL="../../../../Assignment backups/Assignment 23/SubVI/LabVIEW Functions/Numeric/Add.vi"/>
+				<Item Name="Divide.vi" Type="VI" URL="../../../../Assignment backups/Assignment 23/SubVI/LabVIEW Functions/Numeric/Divide.vi"/>
+				<Item Name="Multiply.vi" Type="VI" URL="../../../../Assignment backups/Assignment 23/SubVI/LabVIEW Functions/Numeric/Multiply.vi"/>
+				<Item Name="Subtract.vi" Type="VI" URL="../../../../Assignment backups/Assignment 23/SubVI/LabVIEW Functions/Numeric/Subtract.vi"/>
 			</Item>
 		</Item>
 	</Item>
