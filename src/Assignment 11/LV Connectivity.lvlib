@@ -9,6 +9,7 @@
 		<Item Name="C DLL.vi" Type="VI" URL="../DLL/C DLL.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
+		<Item Name="DLL Type.ctl" Type="VI" URL="../Task 3/Typedefs/DLL Type.ctl"/>
 		<Item Name="Math operations.ctl" Type="VI" URL="../DLL/Typedefs/Math operations.ctl"/>
 		<Item Name="Operation.ctl" Type="VI" URL="../Task 3/Typedefs/Operation.ctl"/>
 	</Item>

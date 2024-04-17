@@ -10,7 +10,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="DLL Type.ctl" Type="VI" URL="../Task 3/Typedefs/DLL Type.ctl"/>
 		<Item Name="LV Connectivity.lvlib" Type="Library" URL="../LV Connectivity.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
