@@ -1,0 +1,156 @@
+<Cluster>
+<Name></Name>
+<NumElts>22</NumElts>
+<Boolean>
+<Name>Load</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Save</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Add</Name>
+<Val>0</Val>
+</Boolean>
+<String>
+<Name>Arithmetic operation</Name>
+<Val>Add</Val>
+</String>
+<DBL>
+<Name>Add Count</Name>
+<Val>2.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Subtract Count</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Multiply Count</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Divide Count</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<String>
+<Name>Delete Tag</Name>
+<Val>Add_1</Val>
+</String>
+<Array>
+<Name>Add Object</Name>
+<Dimsize>2</Dimsize>
+<Object>
+<Name>Add.lvclass</Name>
+<NumLevels>1</NumLevels>
+<Class>Add.lvclass</Class>
+<Version>0.0.0.0</Version>
+</Object>
+<Object>
+<Name>Add.lvclass</Name>
+<NumLevels>1</NumLevels>
+<Class>Add.lvclass</Class>
+<Version>0.0.0.0</Version>
+</Object>
+</Array>
+<Array>
+<Name>Sub Object</Name>
+<Dimsize>0</Dimsize>
+<Object>
+<Name>Subtract.lvclass</Name>
+</Object>
+</Array>
+<Array>
+<Name>Multiply Object</Name>
+<Dimsize>0</Dimsize>
+<Object>
+<Name>Multiply.lvclass</Name>
+</Object>
+</Array>
+<Array>
+<Name>Divide Object</Name>
+<Dimsize>0</Dimsize>
+<Object>
+<Name>Divide.lvclass</Name>
+</Object>
+</Array>
+<I32>
+<Name>Previous tag</Name>
+<Val>0</Val>
+</I32>
+<Refnum>
+<Name>Strict VI Ref</Name>
+<RefKind>LV Object</RefKind>
+<RefType>VI</RefType>
+<Val>0x351000C9</Val>
+</Refnum>
+<I32>
+<Name>Active Tag</Name>
+<Val>1</Val>
+</I32>
+<Refnum>
+<Name>Sub VI Refnum</Name>
+<RefKind>LV Object</RefKind>
+<RefType>VI</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Multip VI Refnum</Name>
+<RefKind>LV Object</RefKind>
+<RefType>VI</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Refnum>
+<Name>Divide vi refnum</Name>
+<RefKind>LV Object</RefKind>
+<RefType>VI</RefType>
+<Val>0x00000000</Val>
+</Refnum>
+<Path>
+<Name>Save data path</Name>
+<Val>C:\Users\khishore.kumar\Khishore\labview_tips_2024\src\Assignment 25\data\save.xml</Val>
+</Path>
+<Array>
+<Name>Control Value:Get All</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Name</Name>
+<Val>Error out</Val>
+</String>
+<LvVariant>
+<Name>Variant Data</Name>
+<Cluster>
+<Name>Error out</Name>
+<NumElts>3</NumElts>
+<Boolean>
+<Name>status</Name>
+<Val>0</Val>
+</Boolean>
+<I32>
+<Name>code</Name>
+<Val>0</Val>
+</I32>
+<String>
+<Name>source</Name>
+<Val></Val>
+</String>
+</Cluster>
+</LvVariant>
+</Cluster>
+</Array>
+<Array>
+<Name>Tags</Name>
+<Dimsize>2</Dimsize>
+<String>
+<Name>String</Name>
+<Val>Add_1</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Add_0</Val>
+</String>
+</Array>
+</Cluster>
