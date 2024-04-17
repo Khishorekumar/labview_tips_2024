@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="data" Type="Folder"/>
 	<Item Name="SubVI" Type="Folder">
 		<Item Name="LV2 Object.vi" Type="VI" URL="../SubVI/LV2 Object.vi"/>
 		<Item Name="Queue Driver.vi" Type="VI" URL="../SubVI/Queue Driver.vi"/>
