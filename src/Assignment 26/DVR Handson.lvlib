@@ -10,5 +10,6 @@
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="LV2 Operations.ctl" Type="VI" URL="../Typedefs/LV2 Operations.ctl"/>
 	</Item>
+	<Item Name="DVRCreator.vi" Type="VI" URL="../DVRCreator.vi"/>
 	<Item Name="Read DVR.vi" Type="VI" URL="../SubVI/Read DVR.vi"/>
 </Library>
